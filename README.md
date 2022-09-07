@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @mueen-memon
-- 👀 I’m interested in Flutter
-- 🌱 I’m currently learning Flutter
+- 👀 I’m interested in Web Development and Flutter.
+- 🌱 I’m currently learning Flutter, NextJS
 - 💞️ I’m looking to collaborate on Flutter Projects.
 - 📫 Here is how you can reach me | imueen.memon@gmail.com
 
