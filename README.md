@@ -1,8 +1,9 @@
-- 👋 Hi, I’m @mueen-memon
-- 👀 I’m interested in Web Development and Flutter.
-- 🌱 I’m currently learning Flutter, NextJS
-- 💞️ I’m looking to collaborate on Flutter Projects.
+- 👋 Hi, I’m @mueen-memon | Software Engineer
+- 👀 I’m interested in Web Development and Mobile Application Development.
+- 🌱 I’m currently learning NextJS
+- 💞️ I’ll be happy to collaborate on Mobile Applications with Flutter & Web Applications.
 - 📫 Here is how you can reach me | imueen.memon@gmail.com
+- 🚀 Portfolio https://mueen-memon.github.io/
 
 <!---
 mueen-memon/mueen-memon is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
