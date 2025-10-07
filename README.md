@@ -1,6 +1,6 @@
 ### Hi there, I'm Mueen Memon! 👋
 
-🚀 **Full Stack Developer | React | Next.js | Electron.js | Nest.js | MERN | Flutter**
+🚀 **Full Stack Developer | React | Next.js | Electron.js | Nest.js | MERN **
 
 I'm a passionate Full Stack Developer with over **3 years of experience** building high-performance web applications. I specialize in **React.js, Next.js, Electron.js, Nest.js, Flask, Flutter**, and the **MERN stack**. My focus is on delivering **scalable, user-friendly solutions** with pixel-perfect UI.
 
