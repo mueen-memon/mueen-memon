@@ -2,7 +2,7 @@
 
 🚀 **Full Stack Developer | React | Next.js | Electron.js | Nest.js | MERN | Flutter**
 
-I'm a passionate Full Stack Developer with over **3 years of experience** building high-performance web and mobile applications. I specialize in **React.js, Next.js, Electron.js, Nest.js, Flask, Flutter**, and the **MERN stack**. My focus is on delivering **scalable, user-friendly solutions** with pixel-perfect UI.
+I'm a passionate Full Stack Developer with over **3 years of experience** building high-performance web applications. I specialize in **React.js, Next.js, Electron.js, Nest.js, Flask, Flutter**, and the **MERN stack**. My focus is on delivering **scalable, user-friendly solutions** with pixel-perfect UI.
 
 ---
 
@@ -23,11 +23,6 @@ I'm a passionate Full Stack Developer with over **3 years of experience** buildi
   <img src="https://img.shields.io/badge/-Flask-000000?logo=flask&logoColor=white&style=for-the-badge" />
   <img src="https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white&style=for-the-badge" />
   <img src="https://img.shields.io/badge/-PostgreSQL-4169E1?logo=postgresql&logoColor=white&style=for-the-badge" />
-</p>
-
-#### **Mobile**
-<p align="left">
-  <img src="https://img.shields.io/badge/-Flutter-02569B?logo=flutter&logoColor=white&style=for-the-badge" />
 </p>
 
 ---
